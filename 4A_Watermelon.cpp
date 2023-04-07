@@ -12,7 +12,7 @@ int main(){
         cout<<"YES";
     }
     else
-        cout<<"NO";
+        cout<<"NOTHING";
         
        
 
